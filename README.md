@@ -8,3 +8,6 @@ The user interface serves three main functions:
 3. **Report**: Produces a hardware report that can be saved to a specified file or defaults to 'ahd-report.txt'.
 
 The application identifies different hardware parts and checks to see if the drivers are installed, not available, or not known. When the programme is run, a table displaying the detected hardware and its statuses will be displayed.
+
+
+All updates will be a million years away since I'm a lazy ass to change what I've created
