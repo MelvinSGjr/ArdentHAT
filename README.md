@@ -10,4 +10,4 @@ The user interface serves three main functions:
 The application identifies different hardware parts and checks to see if the drivers are installed, not available, or not known. When the programme is run, a table displaying the detected hardware and its statuses will be displayed.
 
 
-All updates will be a million years away since I'm a lazy ass to change what I've created
+*All updates will be a million years away since I'm a lazy ass to change what I've created*
